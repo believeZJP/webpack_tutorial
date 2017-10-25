@@ -1,1 +1,1 @@
-alert('learning webpack');
+console.log('learning webpack');
